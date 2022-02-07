@@ -1,0 +1,58 @@
+body{
+    font-size: 15px !important;
+}
+.btn-theme{
+    background:#8bc34a !important;
+    color:#fff;
+}
+.text-theme{
+    color:#8bc34a !important;
+}
+.btn-theme:hover{
+    color:#fff;
+}
+.app-page-title
+{
+    padding: 20px;
+    margin: -30px -30px 30px;
+    position: relative;
+}
+
+.vertical-nav-menu li a.mm-active
+{
+    background:#eee !important;
+    color:#8bc34a;
+    font-weight:unset !important;
+}
+.vertical-nav-menu li a:hover{
+    background:#f8fafe !important;
+
+}
+
+
+.preview_img img{
+    width:100px !important;
+
+}
+.icons{
+    background: #eee;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 15px !important;
+}
+
+.scrollbar-sidebar ul li:hover a{
+    color:#8bc34a !important;
+}
+
+/* -------Select2 box----- */
+.select2-container--default .select2-selection--single
+{
+    height:40px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height: 36px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    height:34px !important;
+}
